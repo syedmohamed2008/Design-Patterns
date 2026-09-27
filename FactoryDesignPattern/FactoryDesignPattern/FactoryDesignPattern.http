@@ -1,0 +1,6 @@
+@FactoryDesignPattern_HostAddress = http://localhost:5079
+
+GET {{FactoryDesignPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
